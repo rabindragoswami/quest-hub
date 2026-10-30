@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Geo Quest",
+    "slug": "geo-quest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": {}
+  }
+}
