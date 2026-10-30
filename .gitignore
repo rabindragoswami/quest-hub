@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+.vercel/
+dist/
+webapp/dist/
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+.DS_Store
+*.log
