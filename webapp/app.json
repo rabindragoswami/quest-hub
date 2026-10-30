@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Quest Hub",
+    "slug": "quest-hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
